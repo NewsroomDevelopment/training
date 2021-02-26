@@ -12,3 +12,9 @@
 
 ## Links and Resources
 Our Figma Mockups: https://www.figma.com/file/Ptm7BvMduyqaGEcYBKzSZG/Trainee-Project?node-id=0%3A1
+
+I love Traversy Media tutorials:
+- [Intro to HTML](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+- [Intro to CSS](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
+- [Intro to JavaScript](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+- [React](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
