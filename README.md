@@ -9,3 +9,6 @@
 | 03-26 | 5 | Databases: MongoDB | | API linked with the database | 
 | 04-02 | 6 | Tying it all together: HTTP Requests | | Complete Spec Sources Application | 
 | 04-09 | 7 | A brief overview of ArcPublishing | | Hackathon Project |
+
+## Links and Resources
+Our Figma Mockups: https://www.figma.com/file/Ptm7BvMduyqaGEcYBKzSZG/Trainee-Project?node-id=0%3A1
