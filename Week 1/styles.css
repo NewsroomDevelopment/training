@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 1rem;
+    background-color: #60B3FB;
+    color: white;
+}
+
+
+.source {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem 1rem;
+    margin: 1rem 0;
+}
