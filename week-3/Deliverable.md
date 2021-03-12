@@ -14,6 +14,6 @@ When the user presses the delete button, call a function in App.js that deletes 
 
 ## Adding a source
 
-When the user submits a source, add that source to the state.
+When the user submits a source, add that source to the state. THiS IS HARD-- use [this](https://www.freecodecamp.org/news/beginner-react-project-build-basic-forms-using-react-hooks/) (and reach out to me) for help! 
 
 When you are done, your application will be fully functioning! However, because these changes are just on the frontend, the state will not save on page refresh.
