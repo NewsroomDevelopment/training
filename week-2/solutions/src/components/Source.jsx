@@ -13,7 +13,7 @@ const Row = styled.div`
 
 const DeleteButton = styled.button`
     padding: 0.5rem 1rem;
-    background: #FF7676;
+    background: ${props => props.color};
     font-weight: bold;
 `;
 
@@ -24,7 +24,7 @@ const Source = ({ number, name, email }) => {
                 <span>{number}:</span>
                 <span>{name}</span>
                 <span>{email}</span>
-                <DeleteButton>Delete</DeleteButton>
+                <DeleteButton color="red">Delete</DeleteButton>
             </Row>
             <hr></hr>
         </>
