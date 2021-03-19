@@ -6,10 +6,10 @@
 | 02-26 | 2 | Intro to Javascript and React | [Intro to Javascript](https://docs.google.com/presentation/d/1ZdvsbhUxTANFl2P1xppMcT49mak08gvFjxO06kFWYkM/edit?usp=sharing) and [Basic React](https://docs.google.com/presentation/d/1QvmYgZIw12dPkroMbzhsLc1Xfgs8EjKtWW0ouQFUBWU/edit?usp=sharing) | Spec Sources in React (static) | [Link](https://columbiauniversity.zoom.us/rec/play/4gbdJhdu5AS8ez0P5tlNw2eYvaxTXiRH2mdf6bcCKM7Sk0klNhNtV2yPT5vTuB9SXExa0HEXydgt7hDc.67KUYVY-pFg0E-D7?continueMode=true&_x_zm_rtaid=I5Cy1NJnTTipH3YXt8yrYQ.1614376681358.60e6468badb632ebe5971d72e4928cfb&_x_zm_rhtaid=239) |
 | 03-12 | 3 | Advanced React | [Advanced React](https://docs.google.com/presentation/d/109h98pvCjivxpGiUvS41ptb9upsWtJOSV3MSq31cDpI/edit?usp=sharing) | Spec Sources in React (dynamic) | [Link](https://columbiauniversity.zoom.us/rec/play/P5nelVy_X3fbpmTqmH_O2JWNr82YnrTPhQE0rMeMeApRhYk1e07BUH7mEfGR0eNl0Z0c2SwBkd1ScWFb.Ssjz65_RtKk4QhBl?continueMode=true&_x_zm_rtaid=inoGq3UcSbuLVIEct6Wb6A.1615596467953.6e9754650545ee8313c5adf5db7ddc86&_x_zm_rhtaid=100) |
 | 03-19 | 4 | Intro to Git, Backend pt. 1 | [Backend](https://docs.google.com/presentation/d/1_B2j1PoEz6sAXqUzVD4LUp5uOKNFioTp0iVxHIFZKBs/edit?usp=sharing) and [Git](https://docs.google.com/presentation/d/108E-x5ilgn7qnA91_Kj4mG3-iVRUG7xublKCzfEtBcA/edit?usp=sharing) | Push everything to Git | 
-| 03-26 | 4 | Backend pt. 2 | [Backend](https://docs.google.com/presentation/d/1_B2j1PoEz6sAXqUzVD4LUp5uOKNFioTp0iVxHIFZKBs/edit?usp=sharing) | Spec Sources API | 
-| 04-02 | 5 | Databases: MongoDB | | API linked with the database | 
-| 04-09 | 6 | Tying it all together: Fetch Requests | | Complete Spec Sources Application | 
-| 04-16 | 7 | A brief overview of ArcPublishing | | Hackathon Project |
+| 03-26 | 5 | Backend pt. 2 | [Backend](https://docs.google.com/presentation/d/1_B2j1PoEz6sAXqUzVD4LUp5uOKNFioTp0iVxHIFZKBs/edit?usp=sharing) | Spec Sources API | 
+| 04-02 | 6 | Databases: MongoDB | | API linked with the database | 
+| 04-09 | 7 | Tying it all together: Fetch Requests | | Complete Spec Sources Application | 
+| 04-16 | 8 | A brief overview of ArcPublishing | | Hackathon Project |
 
 ## Links and Resources
 Our Figma Mockups: https://www.figma.com/file/Ptm7BvMduyqaGEcYBKzSZG/Trainee-Project?node-id=0%3A1
