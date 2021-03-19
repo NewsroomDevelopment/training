@@ -13,6 +13,7 @@
 
 ## Links and Resources
 Our Figma Mockups: https://www.figma.com/file/Ptm7BvMduyqaGEcYBKzSZG/Trainee-Project?node-id=0%3A1
+
 [All of the emojis you will ever need](https://gist.github.com/rxaviers/7360908)
 
 I love Traversy Media tutorials:
@@ -22,4 +23,3 @@ I love Traversy Media tutorials:
 - [React](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 
-😄
