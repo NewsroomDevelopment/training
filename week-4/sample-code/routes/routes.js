@@ -1,6 +1,8 @@
 const controllers = require('../controllers/controller.js');
 const router = require('express').Router();
 
+
+// There are the routes
 router.route("/hello").get(controllers.hello);
 router.route("/hello/:name").get(controllers.hello_name);
 router.route("/todos").get(controllers.todos);
