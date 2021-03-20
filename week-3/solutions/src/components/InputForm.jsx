@@ -17,12 +17,17 @@ const SubmitButton = styled.button`
 
 
 const InputForm = ({ addSource }) => {
-    const [name, setName] = useState('');
-    const [email, setEmail] = useState('');
+    // const [name, setName] = useState('');
+    // const [email, setEmail] = useState('');
+
+    const [data, setData] = useState({
+        name: '',
+        email: ''
+    });
 
     const submitSource = (e) => {
         e.preventDefault();
-        addSource({ name, email });
+        addSource(data);
     };
 
     return (
@@ -30,11 +35,11 @@ const InputForm = ({ addSource }) => {
             <span>Log your Sources:</span>
             <span>
                 <label for="name">Source Name:</label>
-                <input type="text" id="name" value={name} onChange={e => setName(e.target.value)} />
+                <input type="text" id="name" value={data.name} onChange={e => setData({name: e.target.value, email: data.email})} />
             </span>
             <span>
                 <label for="email">Source Email:</label>
-                <input type="email" id="email" value={email} onChange={e => setEmail(e.target.value)} />
+                <input type="email" id="email" value={data.email} onChange={e => setData({name: data.name, email: e.target.value})} />
             </span>
             <SubmitButton onClick={submitSource}>Submit</SubmitButton>
         </Form>
