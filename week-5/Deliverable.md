@@ -16,8 +16,8 @@ npm init
 npm install express body-parser cors path
 touch server.js
 touch data.js
-mkdir controllers && touch controller.js
-mkdir routes && touch routes.js
+mkdir controllers && cd controllers && touch controller.js && cd ..
+mkdir routes && cd routes && touch routes.js && cd ..
 echo "<html><head><title>404</title></head><body>404 Not Found</body></html>" >> 404.html
 echo "<html><head><title>Hello World</title></head><body>Hello World!</body></html>" >> index.html
 ```
