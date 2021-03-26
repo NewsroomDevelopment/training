@@ -1,42 +1,99 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import ToDo from './components/todo';
 import Input from './components/input';
 
 function App() {
-  // destructuring
-  const animals = ["pig", "cow", "chicken"];
-  let [ pig, cow ] = animals;
-  pig = animals[0];
-  cow = animals[1];
-  console.log(pig);
-  // "pig"
-
   const [todos, setToDos] = useState([]);
 
-    let current_id = todos.length + 1;
+  useEffect(() => {
+    fetchData();
+  });
 
-    console.log(todos);
-    console.log(setToDos);
+  const fetchData = async () => {
+    fetch(`http://localhost:8080/api/todos`, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        }})
+        .then(response => {
+            if (response.status >= 200 && response.status < 300) {
+                return response;
+              }
+              const error = new Error(`HTTP Error ${response.statusText}`);
+              error.status = response.statusText;
+              error.response = response;
+              console.log(error);
+              throw error;
+        })
+        .then(response => response.json())
+        .then(json => {
+            console.log(json);
+            setToDos(json.data);
+        })
+        .catch(error => console.log(error));    
+  };
 
-    const deleteToDo = (id) => {
-      const newTodos = todos.filter((todo) => todo.id !== id);
+  let current_id = todos.length + 1;
+  
 
-      setToDos(newTodos);
+  const deleteToDo = (id) => {
+    fetch(`/api/remove_todo/${id}`, {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json'
+      }})
+      .then(response => {
+          if (response.status >= 200 && response.status < 300) {
+              return response;
+            }
+            const error = new Error(`HTTP Error ${response.statusText}`);
+            error.status = response.statusText;
+            error.response = response;
+            console.log(error);
+            throw error;
+      })
+      .then(response => response.json())
+      .then(json => {
+          console.log(json);
+          setToDos(json.data);
+      })
+      .catch(error => console.log(error));
+  };
+
+  const submitTodo = (todo) => {
+    const newTodo = {
+      "userId": 1,
+      "id": current_id,
+      "title": todo,
+      "completed": true
     };
 
-    const submitTodo = (todo) => {
-      const newTodo = {
-        "userId": 1,
-        "id": current_id,
-        "title": todo,
-        "completed": true
-      };
+    current_id += 1;
+    // add a link to explain the spread operator
 
-      current_id += 1;
-      // add a link to explain the spread operator
-
-      setToDos([...todos, newTodo]);
-    };
+    fetch(`/api/add_todo`, {
+      method: 'POST',
+      body: JSON.stringify({todo: newTodo}),
+      headers: {
+          'Content-Type': 'application/json'
+      }})
+      .then(response => {
+          if (response.status >= 200 && response.status < 300) {
+              return response;
+            }
+            const error = new Error(`HTTP Error ${response.statusText}`);
+            error.status = response.statusText;
+            error.response = response;
+            console.log(error);
+            throw error;
+      })
+      .then(response => response.json())
+      .then(json => {
+          console.log(json);
+          setToDos(json.data);
+      })
+      .catch(error => console.log(error));
+  };
 
   return (
     <div className="App">

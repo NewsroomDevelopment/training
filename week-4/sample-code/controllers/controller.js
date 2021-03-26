@@ -13,6 +13,14 @@ module.exports = {
     add_todo: (req, res) => {
         data.todos.push(req.body.todo);
 
-        res.json({"message": "OK"});
+        res.json({"message": "OK", data: data.todos});
+    },
+    remove_todo: (req, res) => {
+        data.todos = data.todos.filter(todo => parseInt(req.params.id) !== todo.id);
+
+        console.log(req.params.id);
+        console.log(data.todos);
+
+        res.json({"message": "OK", data: data.todos});
     }
 };

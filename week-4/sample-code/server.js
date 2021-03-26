@@ -1,11 +1,14 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
+var cors = require('cors')
 
 const app = express();
 const PORT = process.env.PORT || 8080;
 
 const routes = require('./routes/routes.js');
+
+app.use(cors()); // Use this after the variable declaration
 
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}.`);
