@@ -23,3 +23,6 @@ I love Traversy Media tutorials:
 - [React](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 
+To clone this repository:
+`git clone https://github.com/spectatorpublishing/training.git`
+
