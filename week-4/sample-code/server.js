@@ -1,12 +1,13 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
-var cors = require('cors')
+var cors = require('cors');
 
 const app = express();
 const PORT = process.env.PORT || 8080;
 
 const routes = require('./routes/routes.js');
+const db = require('./models')
 
 app.use(cors()); // Use this after the variable declaration
 
