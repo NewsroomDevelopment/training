@@ -21,7 +21,9 @@ I love Traversy Media tutorials:
 - [Intro to CSS](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
 - [Intro to JavaScript](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 - [React](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-- [Really good explination of SQL vs. NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+
+
+[Really good explination of SQL vs. NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
 
 
 To clone this repository:
