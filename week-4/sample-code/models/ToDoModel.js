@@ -8,6 +8,6 @@ const toDoSchema = new Schema({
     completed: { type: Boolean, default: false }
 });
 
-const todo = mongoose.model('todo_list', toDoSchema);
+const todos = mongoose.model('todo_list', toDoSchema);
 
-module.exports = todo;
+module.exports = todos;

@@ -5,12 +5,10 @@ import Input from './components/input';
 function App() {
   const [todos, setToDos] = useState([]);
 
-  useEffect(() => {
-    fetchData();
-  });
+  useEffect(() => fetchData());
 
   const fetchData = async () => {
-    fetch(`http://localhost:8080/api/todos`, {
+    fetch(`/api/todos`, {
         method: 'GET',
         headers: {
             'Content-Type': 'application/json'

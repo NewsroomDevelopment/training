@@ -31,7 +31,7 @@ module.exports = {
         });
     },
     remove_todo: (req, res) => {
-        todos.findOneAndDelete(req.params.id)
+        todos.findOneAndDelete({id: req.params.id})
         .then(todoData => {
             console.log(todoData);
             res.json({"message": "OK", data: todoData});
