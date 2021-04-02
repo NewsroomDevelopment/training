@@ -8,7 +8,7 @@
 | 03-19 | 4 | Intro to Git, Backend pt. 1 | [Backend](https://docs.google.com/presentation/d/1_B2j1PoEz6sAXqUzVD4LUp5uOKNFioTp0iVxHIFZKBs/edit?usp=sharing) and [Git](https://docs.google.com/presentation/d/108E-x5ilgn7qnA91_Kj4mG3-iVRUG7xublKCzfEtBcA/edit?usp=sharing) | Push everything to Git | 
 | 03-26 | 5 | Backend pt. 2 | [Backend](https://docs.google.com/presentation/d/1_B2j1PoEz6sAXqUzVD4LUp5uOKNFioTp0iVxHIFZKBs/edit?usp=sharing) | Spec Sources API | [Link](https://columbiauniversity.zoom.us/rec/play/hnmA4zaKmidpZTlIVTQQteAuShCyIdlPnTod9ubXbUFHCpQ_79pMIpgLY8epjIdjp9JdBtSfg4u7tE4z.W5dcfOpa9RQIBEub?continueMode=true&_x_zm_rtaid=F7E6wS1WQLyP7DXq3Gg5eQ.1616792125164.d2f0f8a0cc604ae21253f611ff403fea&_x_zm_rhtaid=722) |
 | 04-02 | 6 | Databases: MongoDB | [Databases](https://docs.google.com/presentation/d/18kOuwIx78VhuUiNEGY3cvIeRKozTH6NfSH-pzB0D1CA/edit?usp=sharing) | API linked with the database | [Link](https://columbiauniversity.zoom.us/rec/play/1PGQEfE23wF00R8A3eohiTiXINseJomKWNfnO34pXz4bcuqykBd6Huzo4dMToWnx_mk_YdiPR47zXJfT.K0Fml2oqiFUOhQfT?continueMode=true&_x_zm_rtaid=AUSwWELdT_GWFiu8a2Hzlg.1617397379644.335c8d7381e12f6c280b478bce53547d&_x_zm_rhtaid=109) |
-| 04-09 | 7 | Tying it all together: Fetch Requests | | Complete Spec Sources Application | 
+| 04-09 | 7 | Tying it all together: Fetch Requests | [Using APIs](https://docs.google.com/presentation/d/11bajh_TN5W9us4MkwyEkQGhhv8JSPP8SZrprFym2DA4/edit?usp=sharing) | Complete Spec Sources Application | 
 | 04-16 | 8 | A brief overview of ArcPublishing | [ArcPublishing](https://docs.google.com/presentation/d/1e6bRwxYTGyfXXYH-e527HM7pS-ZhF6HvWjNeDhI-xds/edit?usp=sharing) | Hackathon Project |
 
 ## Links and Resources
