@@ -1,7 +1,7 @@
 # Spectator Engineering Traning :computer:
 
-| Date | Week | Topic | Slides Link | Deliverable | Link to Meeting Recording |
-| --- | --- | --- | --- | --- | --- |
+| Date | Week | Topic | Slides Link | Deliverable | Link to Meeting Recording | EM |
+| --- | --- | --- | --- | --- | --- | --- |
 | 02-19 | 1 | Overview of Spec, Setup Enviornment, and Intro to HTML and CSS | [Spec Overview](https://docs.google.com/presentation/d/18BK22ONbI4FlkKyrp7SkQc_FgFPYBim75shaHAu-YLA/edit?usp=sharing) and [Intro to HTML and CSS](https://docs.google.com/presentation/d/1UasEgAn-pmmOke6d_QfOh9bKDnASUNwXtaKLxMnAZu4/edit?usp=sharing) | Spec Sources Basic HTML and CSS | |
 | 02-26 | 2 | Intro to Javascript and React | [Intro to Javascript](https://docs.google.com/presentation/d/1ZdvsbhUxTANFl2P1xppMcT49mak08gvFjxO06kFWYkM/edit?usp=sharing) and [Basic React](https://docs.google.com/presentation/d/1QvmYgZIw12dPkroMbzhsLc1Xfgs8EjKtWW0ouQFUBWU/edit?usp=sharing) | Spec Sources in React (static) | [Link](https://columbiauniversity.zoom.us/rec/play/4gbdJhdu5AS8ez0P5tlNw2eYvaxTXiRH2mdf6bcCKM7Sk0klNhNtV2yPT5vTuB9SXExa0HEXydgt7hDc.67KUYVY-pFg0E-D7?continueMode=true&_x_zm_rtaid=I5Cy1NJnTTipH3YXt8yrYQ.1614376681358.60e6468badb632ebe5971d72e4928cfb&_x_zm_rhtaid=239) |
 | 03-12 | 3 | Advanced React | [Advanced React](https://docs.google.com/presentation/d/109h98pvCjivxpGiUvS41ptb9upsWtJOSV3MSq31cDpI/edit?usp=sharing) | Spec Sources in React (dynamic) | [Link](https://columbiauniversity.zoom.us/rec/play/P5nelVy_X3fbpmTqmH_O2JWNr82YnrTPhQE0rMeMeApRhYk1e07BUH7mEfGR0eNl0Z0c2SwBkd1ScWFb.Ssjz65_RtKk4QhBl?continueMode=true&_x_zm_rtaid=inoGq3UcSbuLVIEct6Wb6A.1615596467953.6e9754650545ee8313c5adf5db7ddc86&_x_zm_rhtaid=100) |
