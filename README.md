@@ -17,6 +17,7 @@ Our Figma Mockups: https://www.figma.com/file/Ptm7BvMduyqaGEcYBKzSZG/Trainee-Pro
 [All of the emojis you will ever need](https://gist.github.com/rxaviers/7360908)
 
 [HTML help](https://www.w3schools.com/html/default.asp)
+
 [Flexbox Froggy](https://flexboxfroggy.com/)
 
 I love Traversy Media tutorials:
