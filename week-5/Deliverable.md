@@ -44,9 +44,7 @@ module.exports = router;
 ```
 
 In `data/data.js`, paste:
-```json
-
-   
+```js
 module.exports = {
     sources: [
         {
