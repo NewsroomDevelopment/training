@@ -22,6 +22,8 @@ echo "<html><head><title>404</title></head><body>404 Not Found</body></html>" >>
 echo "<html><head><title>Hello World</title></head><body>Hello World</body></html>" >> index.html
 ```
 
+To start the server, run `node server.js` in your directory.
+
 Then, copy and paste the contents of `server.js` from the sample code into your `server.js`-- nothing should have to change.
 
 In routes and controllers, implement your three functions! Put all of your data into `data.js`
