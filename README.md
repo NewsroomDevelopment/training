@@ -7,7 +7,7 @@
 | 03-12 | 3 | Advanced React | [Advanced React][9] | Spec Sources in React (dynamic) | [Link][10] | Erin | 
 | 03-19 | 4 | Backend pt. 1 | [Backend][11] | Catch up and start on API | [Link][12] | Yu-Chen |
 | 03-26 | 5 | Backend pt. 2 | [Backend][13] and [Intro to Node.js][14] | Spec Sources API | [Link 1][15], [Link 2][16] | Francesca |
-| 04-02 | 6 | Databases: MongoDB | Databases ([2021 Spring][17], [2021 Fall][18])| API linked with the database | | Yunlan |
+| 04-02 | 6 | Databases: MongoDB | Databases ([2021 Spring][17], [2021 Fall][18])| API linked with the database | [Part 1][30], [Part 2][31] | Yunlan |
 | 04-09 | 7 | Tying it all together: Fetch Requests | [Using APIs][19] | Complete Spec Sources Application | | Laura |
 | 04-16 | 8 | A brief overview of ArcPublishing | [ArcPublishing][20] | Hackathon Project |  | Erin |
 
@@ -53,6 +53,8 @@ To clone this repository:
 [12]: https://columbiauniversity.zoom.us/rec/share/SEet9TZc9RH1ZQHzFLZD7AASZ9QrQiuXOizpZjwbv9nNptmBKFOCfwwzK8m2B_cz.FhsT6l3xUEY7gWBO  "Week 4 recording"
 [15]: https://drive.google.com/file/d/1Lzk1yOmjKEgfIpxwiHoBS9kTG2jccmUj/view?usp=sharing                                              "Week 5 recording 1"
 [16]: https://drive.google.com/file/d/185p1lTCF1fxiGMTKpwst2oJoMMpakW_M/view?usp=sharing                                              "Week 5 recording 2"
+[30]: https://drive.google.com/file/d/1M8fp_MWOofLV7x1HO4Bws-Ehk3A89x6T/view?usp=sharing                                              "Week 6 recording part 1"
+[31]: https://drive.google.com/file/d/1psBkL3QW3mtRsYpbGU9ZOTTjEoJ1t9nP/view?usp=sharing                                              "Week 6 recording part 2"
 
 
 <!-- Resources -->
