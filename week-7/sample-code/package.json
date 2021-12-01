@@ -1,0 +1,22 @@
+{
+    "name": "spec-sources",
+    "version": "1.0.0",
+    "description": "Show Spec Author SOurces",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js",
+      "build": "cd server && npm i",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/spectatorpublishing/training.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/spectatorpublishing/training/issues"
+    },
+    "homepage": "https://github.com/spectatorpublishing/training#readme",
+    "dependencies": {}
+  }
