@@ -1,4 +1,4 @@
-# Spectator Engineering Traning :computer:
+# Spectator Engineering Training :computer:
 
 | Date | Week | Topic | Slides Link | Deliverable | Link to Meeting Recording | EM |
 | --- | --- | --- | --- | --- | --- | --- |
