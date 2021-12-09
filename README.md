@@ -9,7 +9,7 @@
 | 03-26 | 5 | Backend pt. 2 | [Backend][13] and [Intro to Node.js][14] | Spec Sources API | [Link 1][15], [Link 2][16] | Francesca |
 | 04-02 | 6 | Databases: MongoDB | Databases ([2021 Spring][17], [2021 Fall][18])| API linked with the database | [Part 1][30], [Part 2][31] | Yunlan |
 | 04-09 | 7 | Tying it all together: Fetch Requests | [Using APIs][19] | Complete Spec Sources Application | [Link 1](https://drive.google.com/file/d/1DKEG7xN_86mHRQbMqhR1Q_pMY6c0Ly9f/view?usp=sharing), [Link 2](https://drive.google.com/file/d/1WheYBE83UcSJ2zmO12iniK1ornqSNdOU/view?usp=sharing) | Laura |
-| 04-16 | 8 | A brief overview of ArcPublishing | [ArcPublishing][20] | Hackathon Project |  | Erin |
+| 04-16 | 8 | A brief overview of ArcPublishing | [ArcPublishing][20] | Hackathon Project | [Link](https://drive.google.com/file/d/1yS5KO-WS0S92iMQc6ghe8zUhbF1Gheer/view?usp=sharing) | Erin |
 
 ## Links and Resources
 
