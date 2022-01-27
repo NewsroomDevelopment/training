@@ -6,9 +6,10 @@ of your codebase
 
 - To add new changes:
 ```bash
+git checkout -b your-name
 git add .
 git commit -m ":smile:"
-git push origin main
+git push origin your-name
 ```
 
 Have everything pushed to a repo by the next meeting!
