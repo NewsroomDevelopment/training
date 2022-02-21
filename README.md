@@ -1,15 +1,15 @@
 # Spectator Engineering Training :computer:
 
-| Date | Week | Topic | Slides Link | Deliverable | Link to Meeting Recording | EM |
+| Date | Week | Topic | Slides Link | Deliverable | Link to Meeting Recording (Fall 2021) | EM |
 | --- | --- | --- | --- | --- | --- | --- |
-| 02-19 | 1 | Overview of Spec, Setup Enviornment, and Intro to HTML and CSS | [Spec Overview][1] and [Intro to HTML and CSS][2] | Spec Sources Basic HTML and CSS | [Link][3]| Erin | 
+| 02-19 | 1 | Overview of Spec, Setup Enviornment, and Intro to HTML and CSS | [Spec Overview][1] and [Intro to HTML and CSS][2] | Spec Sources Basic HTML and CSS | [Link][3]| Laura | 
 | 02-26 | 2 | Intro to Javascript and React, Intro to Git | [Intro to Javascript][4] and [Basic React][5] and [Git][6] | Spec Sources in React (static) | [Link 1][7], [Link 2][8] | Caroline |
-| 03-12 | 3 | Advanced React | [Advanced React][9] | Spec Sources in React (dynamic) | [Link][10] | Erin | 
+| 03-12 | 3 | Advanced React | [Advanced React][9] | Spec Sources in React (dynamic) | [Link][10] | Caroline | 
 | 03-19 | 4 | Backend pt. 1 | [Backend][11] | Catch up and start on API | [Link][12] | Yu-Chen |
 | 03-26 | 5 | Backend pt. 2 | [Backend][13] and [Intro to Node.js][14] | Spec Sources API | [Link 1][15], [Link 2][16] | Francesca |
 | 04-02 | 6 | Databases: MongoDB | Databases ([2021 Spring][17], [2021 Fall][18])| API linked with the database | [Part 1][30], [Part 2][31] | Yunlan |
-| 04-09 | 7 | Tying it all together: Fetch Requests | [Using APIs][19] | Complete Spec Sources Application | [Link 1](https://drive.google.com/file/d/1DKEG7xN_86mHRQbMqhR1Q_pMY6c0Ly9f/view?usp=sharing), [Link 2](https://drive.google.com/file/d/1WheYBE83UcSJ2zmO12iniK1ornqSNdOU/view?usp=sharing) | Laura |
-| 04-16 | 8 | A brief overview of ArcPublishing | [ArcPublishing][20] | Hackathon Project | [Link](https://drive.google.com/file/d/1yS5KO-WS0S92iMQc6ghe8zUhbF1Gheer/view?usp=sharing) | Erin |
+| 04-09 | 7 | Tying it all together: Fetch Requests | [Using APIs][19] | Complete Spec Sources Application | [Link 1](https://drive.google.com/file/d/1DKEG7xN_86mHRQbMqhR1Q_pMY6c0Ly9f/view?usp=sharing), [Link 2](https://drive.google.com/file/d/1WheYBE83UcSJ2zmO12iniK1ornqSNdOU/view?usp=sharing) | Cindy |
+| 04-16 | 8 | A brief overview of ArcPublishing | [ArcPublishing][20] | Hackathon Project | [Link](https://drive.google.com/file/d/1yS5KO-WS0S92iMQc6ghe8zUhbF1Gheer/view?usp=sharing) | Laura |
 
 ## Links and Resources
 
