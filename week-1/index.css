@@ -15,8 +15,9 @@ body {
 }
 .search-form {
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   align-items: center;
+  justify-content: space-between;
 }
 
 .search-form label, .search-form button {
@@ -26,6 +27,9 @@ body {
 .src-item {
   display: flex;
   flex-direction: row;
-  align-items: center;
   justify-content: space-around;
+}
+
+.src-item p, .src-item button {
+  margin: 5px;
 }
