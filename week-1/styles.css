@@ -1,0 +1,82 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+img {
+    width: 20%;
+    max-height: auto;
+    object-fit: contain;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.webname {
+    display: flex-end;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.searchbar {
+    background-color: #78bffa;
+}
+
+.searchform {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    height: 100px;
+}
+
+.searchform label {
+    color: white;
+    margin: 1%;
+    max-width: 15%;
+}
+
+.searchform button {
+    background-color: #78faa3;
+    border: none;
+    margin: 1%;
+    max-width: 15%;
+    padding: 0.8% 3%;
+    font-size: 100%;
+}
+
+.searchform input {
+    padding: 0.8% 5%;
+    border: none;
+    font-size: 100%;
+}
+
+.entry {
+    display: flex;
+    flex-flow: row-wrap;
+    align-items: center;
+    justify-content: space-between;
+    border-top: black;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.entry button {
+    background-color: #fa7878;
+    border: none;
+    margin: 1%;
+    max-width: 15%;
+    padding: 0.8% 3%;
+    font-size: 100%;
+}
