@@ -27,7 +27,12 @@ img {
 }
 
 .search-form label, .search-form button {
-  margin: 5px;
+  margin: 1%;
+  max-width: 15%;
+}
+
+.search-form input {
+  max-width: 20%;
 }
 
 .src-flex {
@@ -43,5 +48,6 @@ img {
 
 .src-item p, .src-item button {
   margin: 5px;
+  max-width: 15%;
 }
 
