@@ -30,10 +30,15 @@ img {
   margin: 5px;
 }
 
+.src-flex {
+  display: flex;
+  flex-flow: column wrap;
+}
+
 .src-item {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-flow: row wrap;
+  justify-content: space-between; 
 }
 
 .src-item p, .src-item button {
