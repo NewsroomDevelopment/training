@@ -7,8 +7,14 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  height: auto;
 }
 
+img {
+  width: 25%; 
+  max-height: auto;
+  object-fit: contain;
+ }
 
 .search {
   background-color: #69b3e7;
