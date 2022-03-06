@@ -1,7 +1,21 @@
 body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
 }
 
-.class1{
-    font-size: 2rem;
+.header p {
+  float: right; 
+}
+
+.search {
+  background-color: #69b3e7;
+}
+.search-form {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.search-form label, .search-form button {
+  margin: 5px;
 }
