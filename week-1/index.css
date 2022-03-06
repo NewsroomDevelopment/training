@@ -3,19 +3,29 @@ body {
   font-size: 10px;
 }
 
-.header p {
-  float: right; 
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
+
 
 .search {
   background-color: #69b3e7;
 }
 .search-form {
   display: flex;
-  flex-flow: row wrap;
+  flex-direction: row;
   align-items: center;
 }
 
 .search-form label, .search-form button {
   margin: 5px;
+}
+
+.src-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
 }
