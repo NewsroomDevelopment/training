@@ -29,17 +29,19 @@ body {
 }
 
 .search-bar input {
+  padding: 2px;
   border: none;
 }
 
 .search-bar button {
   background-color: #76ff7a;
   border: none;
+  padding: 2px 15px;
 }
 
 .items {
   display: flex;
-  flex-flow: column wrap;
+  flex-direction: column;
 }
 
 .src-item {
@@ -57,9 +59,10 @@ body {
   margin: 2px;
 }
 
-
 .src-item button {
   justify-content: flex-end;
   background-color: salmon;
   border: none; 
+  padding: 2px 15px; 
 }
+
