@@ -7,69 +7,59 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  height: auto;
-  font-size: x-large;
 }
 
-img {
-  width: 25%; 
-  max-height: auto;
-  object-fit: contain;
- }
+.header img {
+    width: 25%; 
+    max-height: auto;
+    object-fit: contain; 
+}
 
-.search {
+.search-bar {
   background-color: #69b3e7;
   color: white;
+  padding: 10px 2px;
 }
-.search-form {
+
+.search-bar form {
   display: flex;
-  flex-flow: row wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
   align-items: center;
-  justify-content: space-between;
 }
 
-.search-form label, .search-form button {
-  margin: 1%;
-  max-width: 15%;
+.search-bar input {
+  border: none;
 }
-.search-form button {
+
+.search-bar button {
   background-color: #76ff7a;
+  border: none;
 }
 
-.search-form input {
-  max-width: 20%;
-}
-
-.src-flex {
+.items {
   display: flex;
   flex-flow: column wrap;
 }
 
 .src-item {
   display: flex;
-  flex-flow: row wrap;
+  flex-direction: row;
   justify-content: space-between; 
+  align-items: center;
+
+  /* make buttons and nums align */
+  padding: 0px 15px 0px 15px;
+
+  /* aestethic */
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+  margin: 2px;
 }
 
-
-.src-item p, .src-item button {
-  display: flex;
-  margin: 5px;
-  max-width: 15%;
-  align-items: stretch;
-}
 
 .src-item button {
+  justify-content: flex-end;
   background-color: salmon;
+  border: none; 
 }
-/*
-p.sName, p.sEmail {
-  display: flex;
-  align-items: stretch;
-  justify-content: space-evenly;
-}
-<<<<<<< HEAD
-
-=======
-*/
->>>>>>> edd1ecb265d8a8507dfa28413ecc891c0d070c9f
