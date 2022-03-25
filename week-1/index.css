@@ -29,10 +29,8 @@ body {
   flex-flow: row wrap; 
   justify-content: space-between;
   align-items: center;
-  margin-left: 2%;
-  margin-right: 2%;
-  margin-top: 0.5%;
-  margin-bottom: 0.5%;
+
+  margin: 0.5% 2%;
 }
 
 .search-bar label {
@@ -71,7 +69,7 @@ body {
 }
 
 .src-item button {
-  margin-right: 3%;
+  margin-right: 2.5%;
   max-width: 15%;
   padding: 0.5% 4%;
   justify-content: flex-end;
