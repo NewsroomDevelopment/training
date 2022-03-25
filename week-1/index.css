@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .header {
@@ -15,54 +15,81 @@ body {
     object-fit: contain; 
 }
 
+.header p {
+  font-size: 25px;
+}
+
 .search-bar {
   background-color: #69b3e7;
   color: white;
-  padding: 10px 2px;
 }
 
 .search-bar form {
   display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  justify-content: space-between;
   align-items: center;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
+
+.search-bar label {
+  margin: 1%;
+  max-width: 15%;
 }
 
 .search-bar input {
-  padding: 2px;
+  padding: 0.8% 5%;
+
+  font-size: 100%;
   border: none;
 }
 
 .search-bar button {
+  margin: 1%;
+  max-width: 15%;
+  padding: 0.5% 4%;
+  font-size: 100%;
+
   background-color: #76ff7a;
   border: none;
-  padding: 2px 15px;
-}
-
-.items {
-  display: flex;
-  flex-direction: column;
+  
 }
 
 .src-item {
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   justify-content: space-between; 
   align-items: center;
-
-  /* make buttons and nums align */
-  padding: 0px 15px 0px 15px;
+  margin: 0.5%;
 
   /* aestethic */
   border-top: 1px solid #dedede;
   border-bottom: 1px solid #dedede;
-  margin: 2px;
 }
 
 .src-item button {
+  margin-right: 3%;
+  max-width: 15%;
+  padding: 0.5% 4%;
   justify-content: flex-end;
+
+  font-size: 100%;
   background-color: salmon;
   border: none; 
-  padding: 2px 15px; 
 }
 
+.number {
+  padding-left: 5%;
+}
+
+.name {
+  padding-left: 8%;
+}
+
+.email {
+  padding-left: 25%;
+  text-align: center;
+}
