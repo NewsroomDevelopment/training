@@ -6,19 +6,19 @@ import Source from './components/Source';
 
 function App() {
   return (
-    <div className="SourcePage">
-      <header className="Source-header">
-        <NavBar />
+    <div className="source-page">
+      <header className="source-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <NavBar />
       </header>
+
+      <div className='search-bar'>
+        <CreateSource />
+      </div>
+
+      <div>
+        <Source />
+      </div>
     </div>
   );
 }
