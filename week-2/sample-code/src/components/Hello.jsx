@@ -1,6 +1,6 @@
 function Hello({ text }) {
     return (
-        <span>Spec's Sources</span>
+        <span>{text}</span>
     )
 }
 
