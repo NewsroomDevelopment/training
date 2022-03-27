@@ -3,8 +3,6 @@ import './App.css';
 import Edit from './components/Edit';
 import Hello from './components/Hello';
 
-
-
 function App() {
   return (
     <div className="App">
