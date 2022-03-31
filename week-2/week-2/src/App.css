@@ -3,21 +3,80 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  width: 20%;
+  max-height: auto;
+  object-fit: contain;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.source-page {
+  display: flex-end;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
+}
+
+.source-header {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  font-size: 200%;
+  margin: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.search-bar {
+  background-color: #78bffa;
+}
+
+.searchform {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  height: 100px;
+}
+
+.searchform label {
+  color: white;
+  margin: 1%;
+  max-width: 15%;
+}
+
+.searchform button {
+  background-color: #78faa3;
+  border: none;
+  margin: 1%;
+  max-width: 15%;
+  padding: 0.8% 3%;
+  font-size: 100%;
+}
+
+.searchform input {
+  padding: 0.8% 5%;
+  border: none;
+  font-size: 100%;
+}
+
+.entry {
+  display: flex;
+  flex-flow: row-wrap;
+  align-items: center;
+  justify-content: space-between;
+  border-top: black;
+  margin-left: 5%;
+  margin-right: 2%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.entry button {
+  background-color: #fa7878;
+  border: none;
+  margin: 1%;
+  max-width: 15%;
+  padding: 0.8% 3%;
+  font-size: 100%;
 }

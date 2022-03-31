@@ -16,7 +16,7 @@ function App() {
         <CreateSource />
       </div>
 
-      <div>
+      <div className='sources'>
         <Source />
       </div>
     </div>
